@@ -65,4 +65,8 @@ The DNS (Domain Name System) translated the domain name shorterloop.com into the
 
 ## What I Learned
 
-When I type a website address, DNS converts the domain name into an IP address. The browser then connects to the server using TCP, creates a secure connection using TLS, sends an HTTP request, receives files such as HTML, CSS, JavaScript, and images, and finally displays the webpage.
+When I type a website address into a browser, the DNS system first converts the domain name into an IP address. The browser then establishes a TCP connection with the server and creates a secure connection using TLS (Transport Layer Security). After the connection is established, the browser sends an HTTP request to the server. The server responds by sending files such as HTML, CSS, JavaScript, images, and other resources. The browser downloads these files, processes them, and renders the webpage on the screen.
+
+## Result
+
+Successfully observed the process of loading a website by performing a DNS lookup and analyzing network requests in Chrome DevTools. Learned how DNS resolution, TCP connection, TLS encryption, HTTP requests, and webpage resources work together to display a website.
