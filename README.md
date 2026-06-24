@@ -1,4 +1,4 @@
-# Day 2 – What Happens When You Open a Website
+What Happens When You Open a Website
 
 Website tested: https://shorterloop.com
 
