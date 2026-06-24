@@ -17,6 +17,12 @@ Name:    shorterloop.com
 Address: 76.76.21.21
 ```
 
+Observation:
+
+```text
+The DNS (Domain Name System) translated the domain name shorterloop.com into the IP address 76.76.21.21, allowing the browser to locate the web server.
+```
+
 ## Network Requests
 
 > Replace the sample details below with the exact requests shown in your Chrome Network tab.
